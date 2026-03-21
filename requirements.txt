@@ -1,0 +1,9 @@
+# Hardware drivers (Raspberry Pi only – not installed in CI/dev environments)
+RPi.GPIO
+rpi-ws281x
+adafruit-circuitpython-neopixel
+pyserial
+
+# Development / test dependencies
+pytest
+pytest-cov
